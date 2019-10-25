@@ -7,7 +7,7 @@ Open community chats for developers in the Seattle area
 * [Seattle.rb](https://seattlerbslack.herokuapp.com/) (Ruby)
 * [#techseattle](https://launchpass.com/techseattle)
 * [WPSeattle](https://wpseattleslack.wordpress.com/)
-
+* [Seattle JS Hackers](https://seattlejshackers.slack.com/join/shared_invite/enQtMzYzMDcwNzQ3Nzk0LTcxZDI5NjA1MjIwYzdkYjQ5ZDhhYjVlNzg1MjljZTg5NjU1YTRlYzhjMjNiZTQ0Y2NkMGRkOTQ2N2Q2N2VjYzU) (JS)
 ## Contributions
 I welcome contributions to this resource. If you'd like to add a Seattle Slack community I've missed or update an existing one, here are the basic steps:
 1. Fork the repository
