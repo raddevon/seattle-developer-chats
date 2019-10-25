@@ -1,5 +1,5 @@
-# Seattle Developer Slacks
-Open Slack communities for developers in the Seattle area
+# Seattle Developer Chats
+Open community chats for developers in the Seattle area
 
 * [Open Seattle](https://openseattleslack.herokuapp.com/)
 * [PuPPy](https://pugetsoundpython-slack.herokuapp.com/) (Python)
